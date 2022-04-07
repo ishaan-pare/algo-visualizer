@@ -1,0 +1,12 @@
+.App{
+  margin: auto;
+  width: 50%;
+  padding: 2px;
+}
+.array-bar{
+  background-color: aqua;
+  display: inline-block;
+  width: 10px;
+  height: 100px;
+  margin: 2px;
+}
